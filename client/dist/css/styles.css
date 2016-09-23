@@ -1,0 +1,17 @@
+   /*-------------------------------------
+   Layout
+   -------------------------------------- */
+.reactdiv{
+  margin-top: 80px;
+}
+.active{
+  background-color: blue;
+}
+.alert{
+display: none;
+  margin-top: 5px;
+}
+.list{
+  background-color: #862a2a;
+  margin-top: 30px;
+}
